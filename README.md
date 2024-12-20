@@ -33,26 +33,26 @@ En resum, el VAR és un exemple d'hibridació que combina elements humans i digi
 # Exemple 2: Vehicles Autònoms de Tesla
 
 ### Descripció
-Els vehicles autònoms de Tesla formen part una de les innovacions més destacades en l'automoció. Aquests cotxes estan equipats amb un conjunt de sensors d'ultrasons, càmeres d'alta definició i sistemes de radar que capten dades de l'entorn en temps real. Aquesta informació és processada per un software d'intel·ligència artificial (IA) que permet al vehicle prendre decisions complexes sense que el conductor tingui que actuar.
+Els cotxes autònoms de Tesla son els mes coneguts per tothom, i formen part d'una e les innovacions més destacades en el món de l'automoció en els ultims anys. Aquests cotxes estàn equipats amb tot tipus de senors i càmeres que el que fan es analitzar l'entorn en tot moment. La informació que rep la analitza un software d'inteligencia artificial que fa que el cotxe tingui la capacitat de pendre decisions sense que la personaque condueix tingui que fer res.
 
-El sistema "Autopilot" de Tesla és capaç de dur a terme accions com mantenir la velocitat, frenar davant d'obstacles, canviar de carril i fins i tot aparcar automàticament. A més, l'empresa està desenvolupant funcionalitats de conducció completament autònoma, en les quals el cotxe podria gestionar qualsevol tipus de carretera o condició de trànsit sense assistència humana. Aquest últim punt ja es pot veure a països com Estats Units.
+Aquest sistema d'autopilotatge de Tesla, és capaç de fer accions com per exemple mantenirla mateixa velocitat, frenar si veu algo a la carretera, canviar de carril o aparcar. També i el mes innovador es que Tesla ha estat desenvolupant una conducció 100% autònoma, en el que el cotxe es podria gestionar a qualsevol carretera i en las condicions que tingués sense que un humà hagi de donar assistència. Aquest últim punt ja es pot veure a països com Estats Units.
+
 
 ### Hibridació
-Els vehicles autònoms son un exemple molt clar l'hibridació combinant l'enginyeria de vehicles tradicional amb tecnologies digitals. En aquest cas, es fusionen materials físics, com xassís i motors, amb sistemes d'aprenentatge automàtic i anàlisi de dades. Aquests cotxes utilitzen xarxes per interpretar patrons de comportament en el trànsit, anticipar moviments d'altres vehicles i prendre decisions en mil·lèssimes de segon.
+Els vehicles autònoms son un exemple molt clar l'hibridació combinant l'enginyeria de vehicles tradicional amb tecnologies digitals. En aquest últim cas, es junten tan els materials físics com pot ser per exemple el motor d'un cotxe, amb sistemes tecnologics i d'anàlisi de dades. Estàn dissenyats per anticpar moviments d'altres vehicles i pendre decisions molt ràpides.
 
 Un aspecte destacat d'aquesta hibridació és l'actualització constant del software dels vehicles mitjançant actualitzacions remotes. Això permet que els cotxes evolucionin i millorin amb el temps, una característica mai vista en els vehicles tradicionals. Aquesta integració també ha transformat la relació entre el conductor i el vehicle, passant d'un rol actiu a un de supervisió.
 
 ### Impacte
-Els vehicles autònoms tenen el potencial de revolucionar el transport. Es preveu que redueixin significativament els accidents de trànsit, ja que eliminen l'error humà, una de les causes principals d'accidents. També podrien millorar l'eficiència energètica i descongestionar les ciutats gràcies a una conducció més optimitzada. No obstant això, aquesta tecnologia també planteja reptes importants. La seguretat és un dels principals punts de debat, especialment en casos d'accidents on la responsabilitat legal no és clara. A més, la privacitat de les dades recollides pels vehicles és un altre tema que no esta clar.
+Aquests vehicles tenen la capacitat de revolucionar la societat en el cap del motor. Gracies a aquesta tecnologia es preveu que els accidents es redueixin, aqixo últim es gracies a que s'elimina l'error humà, que es una de les principals causes d'accidents. Tambè es podrà millorar l'eficiència energetica. Tot i aixó, aquesta tecnologia també esta causant dubtes a la gent i està generant un munt de debats, especialment en casos d'accidens quina responsabilitat legal hi haurà.
 
-Tesla també ha enfrontat crítiques per la confiança excessiva d'alguns conductors en el sistema Autopilot, que ha provocat incidents greus. Això subratlla la importància de regular de forma adequada i tenir consciencia de les limitacions dels vehicles autònoms.
+Tesla també ha enfrontat crítiques per la confiança excessiva que tenen alguns conductors amb aqusta tecnologia que es recenment nova o que ha provocat incidents greus. Aixó remarca l'importania de tenir conciencia de les limitacions que poden tenir els vehicles autònoms.
 
-En conjunt, els vehicles autònoms de Tesla son un exemple de com l'hibridació pot transformar una indústria sencera, oferint beneficis mentre es plantegen noves preguntes ètiques, legals i culturals.
 
 ---
 
 ## Reflexió Final
-Tant el VAR com els vehicles autònoms de Tesla ens fan veure com la tecnologia transforma les experiències humanes mitjançant la hibridació. Aquestes innovacions no només canvien sectors com l'esport i l'automoció, sinó que també plantegen noves preguntes sobre els límits entre el món humà i el digital. Això reflecteix plenament la visió de Manovich sobre com el software ha pres el comandament del nostre entorn.
+En definitiva, tant el VAR com el sistema de vehicles autònoms, ens fa pensar com la tecnologia pot tranformar les experiències humanes mitjançant l'hibridació. Aixó ens fa pensar en els límits entre elmón humà i el món tecnologic. Per tant aixó reflecteix completament el la visió que tenia Manovich sobre com el software ha pres el comandament.
 
 ---
 
