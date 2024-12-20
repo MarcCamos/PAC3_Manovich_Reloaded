@@ -6,9 +6,10 @@
 L'hibridació és un dels conceptes explorats per Lev Manovich al llibre “El software toma el mando”. 
 Aquest concepte fa referencia a la combinació de diferents tecnologies o mètodes per crear un producte, servei, etc.. 
 En el següent document analitzaré dos exemples d’hibridació que m’han semblat interesants i que compleixen perfectament amb el concepte d’hibridació. Els conceptes son: el VAR (Video Assistant Referee) molt popular en el mont del futbol i els vehicles autònoms de Tesla.
+
 ---
 
-## Exeple 1: El VAR (Video Assistant Referee) en el Futbol
+# Exemple 1: El VAR (Video Assistant Referee) en el Futbol
 
 ### Descripció
 El VAR (Video Assistant Referee) és un sistema tecnològic que des de fa poc temps, ha transformat el futbol modern. La seva implementació es basa en un conjunt de càmeres d'alta definició distribuïdes al camp, les quals capten diversos angles de les jugades en temps real. Aquestes imatges s'envien a un equip de àrbitres assistents situats en una sala de control, que revisen les accions mitjançant programes de software especialitzat. 
@@ -28,7 +29,7 @@ En resum, el VAR és un exemple d'hibridació que combina elements humans i digi
 
 ---
 
-## Exemple 2: Vehicles Autònoms de Tesla
+# Exemple 2: Vehicles Autònoms de Tesla
 
 ### Descripció
 Els vehicles autònoms de Tesla formen part una de les innovacions més destacades en l'automoció. Aquests cotxes estan equipats amb un conjunt de sensors d'ultrasons, càmeres d'alta definició i sistemes de radar que capten dades de l'entorn en temps real. Aquesta informació és processada per un software d'intel·ligència artificial (IA) que permet al vehicle prendre decisions complexes sense que el conductor tingui que actuar.
