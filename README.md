@@ -56,7 +56,8 @@ En definitiva, tant el VAR com el sistema de vehicles autònoms, ens fa pensar c
 
 ---
 
-##Bibliografia
+## Bibliografia
+
 Fifa.com. [citado el 20 de diciembre de 2024]. Disponible en: https://www.fifa.com/technical/football-technology/var
 
 Wikipedia contributors. Árbitro asistente de video [Internet]. Wikipedia, The Free
