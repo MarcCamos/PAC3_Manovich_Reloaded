@@ -1,5 +1,6 @@
 # PAC3_Manovich_Reloaded
 **Nom:** Marc Camós Gómez 
+
 **Data:** 20/12/2024
 
 ## Introducció 
